@@ -1,0 +1,24 @@
+# 本地应用配置与系统文件
+.obsidian/
+.DS_Store
+/tools/
+
+# 仅收录文本文档；忽略媒体、归档与凭证文件
+*.m4a
+*.mp3
+*.wav
+*.flac
+*.ogg
+*.aac
+*.opus
+*.mp4
+*.mov
+*.webm
+*.zip
+*.7z
+*.tar
+*.gz
+.env
+.env.*
+*.pem
+*.key

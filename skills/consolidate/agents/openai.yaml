@@ -1,0 +1,4 @@
+interface:
+  display_name: "Consolidate"
+  short_description: "将学习笔记、日志、踩坑、书签和面试题沉淀到 MyVault"
+  default_prompt: "使用 $consolidate 将当前学习内容按 MyVault 规范沉淀。"
